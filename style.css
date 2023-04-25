@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  #poema-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  #poema-frase {
+    font-size: 2rem;
+    text-align: center;
+    color: #333;
+  }
+  
